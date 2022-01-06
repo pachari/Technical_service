@@ -1,0 +1,104 @@
+<form class="setup_frm">
+    <fieldset class="item">
+        <table class="repair_detail">
+            <tr>
+                <td scope="rowgroups" colspan="2">
+                    <h2> <b>{LNG_Details of} {LNG_Informer} %JOB%</b> </h2>
+                </td>
+            </tr>
+            <tr>
+                <td class="icon-customer" style="width:200px;">{LNG_Name}</td>
+                <td>%NAME%</td>
+            </tr>
+
+            <!--  <tr>
+          <td class="icon-phone">{LNG_Phone}</td>
+          <td><a href="tel:%PHONE%">%PHONE%</a></td>
+        </tr> -->
+
+            <tr>
+                <td class="icon-users">{LNG_Member status}</td>
+                <td>%GROUP%</td>
+            </tr>
+            <tr>
+                <td scope="rowgroups" colspan="2">
+                    <h2><b>{LNG_Technical Service job description}</b></h2>
+                </td>
+            </tr>
+            <!--<tr>
+                <td class="icon-modules">{LNG_types of objective}</td>
+                <td>%TOPIC%</td>
+            </tr>-->
+            <tr>
+                <td class="icon-calendar">{LNG_Received date}</td>
+                <td>%CREATE_DATE%</td>
+            </tr>
+            <tr>
+                <td class="icon-calendar">{LNG_request date}</td>
+                <td>%REQUEST_DATE%</td>
+            </tr>
+            <tr>
+                <td class="icon-product">{LNG_Customer Name}</td>
+                <td>%CUSTOMER%</td>
+            </tr>
+            <tr>
+                <td class="icon-addressbook">{LNG_Address}</td>
+                <td>%ADDRESS%</td>
+            </tr>
+            <tr>
+                <td class="icon-address">{LNG_Contact_name}</td>
+                <td>%CONTACT%</td>
+            </tr>
+            <tr>
+                <td class="icon-list">{LNG_types of objective}</td>
+                <td>%PRODUCT_NO%</td>
+            </tr>
+
+            <tr>
+                <td class="icon-tools">{LNG_Detail}</td>
+                <td>%JOB_DESCRIPTION%</td>
+            </tr>
+            <tr>
+                <td class="icon-number">{LNG_Approve}</td>
+                <td>%NAMEAPPROVE%</td>
+            </tr>
+
+            <tr>
+                <td class="icon-calendar">{LNG_Approve_date}</td>
+                <td>%DATE_APPROVE%</td>
+            </tr>
+            <tr>
+                <td class="icon-file">{LNG_signature approve}{LNG_Approve}</td>
+                <td><img src="%ESIG%" width="100" height="110"> </td>
+            </tr>
+            <!--<tr>
+                <td class="icon-iconview">{LNG_Image}</td>
+                <td><img class="resize" src=%UPIC%></td>
+            </tr>-->
+        </table>
+    </fieldset>
+    <fieldset class="item">
+        <table>
+                %UPIC%
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>
+            <span><b>{LNG_Transaction history}</b></span>
+        </legend>
+        %DETAILS%
+    </fieldset>
+</form>
+<style>
+    img.resize {
+        width: 70px;
+        height: 60px;
+        border: 0;
+    }
+    
+    img:hover.resize {
+        width: 350px;
+        height: 300px;
+        border: 0;
+    }
+</style>
