@@ -32,7 +32,7 @@ class Controller extends \Gcms\Controller
         // เลือกเมนู
         $this->menu = 'customer';
         // แอดมิน, ไม่ใช่สมาชิกตัวอย่าง
-        if (Login::notDemoMode(Login::isAdmin())) {
+        if (Login::checkPermission(Login::isMember(), 'can_manage_customer')) {
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',

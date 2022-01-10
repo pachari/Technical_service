@@ -29,9 +29,9 @@ class Model extends \Kotchasan\KBase
                    ->from('user U1')
                    ->where(array('U1.id', 'R.send_approve'));
         $sq1_emailapprove =  \Kotchasan\Model::createQuery()
-                   ->select('U1.username as username_approve')
-                   ->from('user U1')
-                   ->where(array('U1.id', 'R.send_approve'));
+                   ->select('U2.username as username_approve')
+                   ->from('user U2')
+                   ->where(array('U2.id', 'R.send_approve'));
 
         $sq2_s_group =  \Kotchasan\Model::createQuery()
                    ->select('U3.status as s_group')
@@ -80,9 +80,7 @@ class Model extends \Kotchasan\KBase
                         ,'CT.contact_tel'
                         ,'CT.position' 
                     );  
-                    
-        // print_r($order)        ;   
-           
+
             //เช็คกลุ่มผู้ใช้งาน
             $gmember = \Index\Member\Model::getMemberstatus($order->s_group);
             if ($order) {

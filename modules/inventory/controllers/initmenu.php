@@ -36,11 +36,11 @@ class Controller extends \Kotchasan\KBase
             );
         }
         // สามารถบริหารจัดการได้
-        if (Login::checkPermission($login, 'can_manage_inventory')) {
+        if (Login::checkPermission($login, 'can_config')) { //can_manage_inventory
             $submenus[] = array(
                 'text' => '{LNG_List of}',
                 'url' => 'index.php?module=inventory-setup',
-            );
+            ); 
             foreach (Language::get('INVENTORY_CATEGORIES', array()) as $type => $text) {
                 $submenus[] = array(
                     'text' => $text,
@@ -49,7 +49,7 @@ class Controller extends \Kotchasan\KBase
             }
         }
         if (!empty($submenus)) {
-            $menu->add('settings', '{LNG_Inventory}', null, $submenus, 'inventory');
+            $menu->add('settings', '{LNG_types of objective}', null, $submenus, 'inventory');
         }
     }
 }

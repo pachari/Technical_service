@@ -40,7 +40,7 @@ class Model extends \Kotchasan\Model
         $index = self::get();
         // session, token, สมาชิก และไม่ใช่สมาชิกตัวอย่าง
         if ($request->initSession() && $request->isSafe() && $login = Login::isMember()) {
-            if (Login::notDemoMode($login)) {
+            if (Login::checkPermission(Login::isMember(), 'can_manage_customer')) {
                 try {
                     $save_cust = array(
                         'customer_name' => $request->post('customer_name')->topic(),

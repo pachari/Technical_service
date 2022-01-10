@@ -22,7 +22,7 @@ class Controller extends \Kotchasan\KBase
      */
     public static function updatePermissions($permissions)
     {
-        $permissions['can_manage_inventory'] = '{LNG_Can manage the} {LNG_Inventory}';
+        $permissions['can_manage_inventory'] = '{LNG_Can manage the} {LNG_types of objective}';
         return $permissions;
     }
 }

@@ -117,7 +117,7 @@ class Model extends \Kotchasan\Model
         // session, token, approve_manage_repair, approve_repair
 
         if ($request->initSession() && $request->isSafe() && $login = Login::isMember()) {
-            if (Login::checkPermission($login, array('approve_manage_repair', 'approve_repair'))) {
+            if (Login::checkPermission($login, array( 'approve_repair'))) {
                 try {
                     $save = array(
                         'member_id' => $login['id'],

@@ -69,13 +69,13 @@ class Model extends \Kotchasan\Model
                 $action = $request->post('action')->toString();
                 // id ที่ส่งมา
                 if (preg_match_all('/,?([0-9]+),?/', $request->post('id')->toString(), $match)) {
-                    if ($action === 'delete' && Login::checkPermission($login,array('approve_manage_repair', 'approve_repair'))) {
+                    if ($action === 'delete' && Login::checkPermission($login,array( 'approve_repair'))) {
                         // ลบรายการสั่งซ่อม
                         $this->db()->delete($this->getTableName('repair'), array('id', $match[1]), 0);
                         $this->db()->delete($this->getTableName('repair_status'), array('repair_id', $match[1]), 0);
                         // reload
                         $ret['location'] = 'reload';
-                    } elseif ($action === 'status' && Login::checkPermission($login, array('approve_manage_repair', 'approve_repair'))) {
+                    } elseif ($action === 'status' && Login::checkPermission($login, array( 'approve_repair'))) {
                         // อ่านข้อมูลรายการที่ต้องการ
                         $index = \Repair\Detail\Model::get($request->post('id')->toInt());
                         if ($index) {

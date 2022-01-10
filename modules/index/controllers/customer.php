@@ -29,7 +29,7 @@ class Controller extends \Gcms\Controller
         // ข้อความ title bar
         $this->title = Language::get('Customer list');
         // เลือกเมนู
-        $this->menu = 'customer';
+        $this->menu = 'cust';
         // แอดมิน, ไม่ใช่สมาชิกตัวอย่าง
         if (Login::checkPermission(Login::isMember(), 'can_manage_customer')) {
             // แสดงผล

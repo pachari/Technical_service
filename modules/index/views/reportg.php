@@ -263,8 +263,8 @@ class View extends \Gcms\View
                                 $gmember2 .=  '<th>{LNG_'.$value.'}</th>';
                             }
                             for($i=0;$i<=count($index3[0]);$i++){ 
-                                if( ($index3[0][$i]) != 0 ||  ($index3[0][$i]) != null)  {  
-                                    $str_3 =  $str_3.'<td>'. $index3[0][$i].'</td>';
+                                if( ($index3[0]['0'.$i]) >= 0 ||  ($index3[0]['0'.$i]) != null)  {  
+                                    $str_3 =  $str_3.'<td>'. $index3[0]['0'.$i].'</td>';
                                     
                                 }else{  $str_3 = $str_3.'<td> 0 </td>'; }
                         } 

@@ -55,7 +55,6 @@ class Model extends \Kotchasan\Model
                            //    $next_id = 1;
                           // }
                            // ตรวจสอบข้อมูลซ้ำ
-                          // print_r(self::$cfg->$name);
                            while (true) {
                                $result = $prefix.\Kotchasan\Number::printf(self::$cfg->$name, $next_id);
                                $search = $db->first($table_name, array($field, $result));

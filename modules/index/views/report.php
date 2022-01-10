@@ -159,23 +159,22 @@ class View extends \Gcms\View
                 $time = DATE::DATEDiff($value->create_date,$value->end_date);
                 $Alltime = $time['d'].':'.$time['h'].':'.$time['i'];//.':'.$time['s']; $time['m'].':'.
                 
-                if( $Alltime <> ''){
-                        $in[$i]["id"]       = $value->id;
-                        $in[$i]["job_id"]   = $value->job_id;
-                        $in[$i]["status"]   = $value->status;
-                        $in[$i]["create_date"]  = $value->create_date;
-                        $in[$i]["request_date"]  = $value->request_date;
-                        $in[$i]["customer_name"]   = $value->customer_name;
-                      
-                      //  $in[$i]["end_date"]     = $value->end_date;
-                        $in[$i]["product_no"]   = $value->product_no;
-                      //  $in[$i]["topic"]        = $value->topic;
-                      //  $in[$i]["cost"]         = $value->cost ;
-                        //$in[$i]["Alltime2"]      = $value->Alltime2;
-                        $in[$i]["Alltime"]      = $Alltime;
+                  //  if( $Alltime <> ''){
+                            $in[$i]["id"]       = $value->id;
+                            $in[$i]["job_id"]   = $value->job_id;
+                            $in[$i]["status"]   = $value->status;
+                            $in[$i]["create_date"]  = $value->create_date;
+                            $in[$i]["request_date"]  = $value->request_date;
+                            $in[$i]["customer_name"]   = $value->customer_name;
+                        //  $in[$i]["end_date"]     = $value->end_date;
+                            $in[$i]["product_no"]   = $value->product_no;
+                        //  $in[$i]["topic"]        = $value->topic;
+                        //  $in[$i]["cost"]         = $value->cost ;
+                            //$in[$i]["Alltime2"]      = $value->Alltime2;
+                            $in[$i]["Alltime"]      = $Alltime;
 
-                    $i+=1;
-                } 
+                        $i+=1;
+                   // } 
                 } 
 
         // ตาราง

@@ -2,7 +2,7 @@
 /* config.php */
 return array (
   'version' => '4.0.3',
-  'web_title' => 'TKS : Technical Service (ใบขอเทคนิคบริการ)',
+  'web_title' => 'TKS - Technical Service (ใบขอเทคนิคบริการ)',
   'web_description' => 'ระบบบันทึกข้อมูลใบขอเทคนิคบริการ',
   'timezone' => 'Asia/Bangkok',
   'type_job_number' => 
@@ -90,13 +90,13 @@ return array (
     'inventory' => 1,
     'repair' => 1,
   ),
-  'noreply_email' => 'mailcenter@tkschemical.co.th',
+  'noreply_email' => '',
   'email_charset' => 'utf-8',
-  'email_Host' => 'smtp.gmail.com',
-  'email_Port' => 465,
-  'email_SMTPSecure' => 'ssl',
-  'email_Username' => 'mailcenter@tkschemical.co.th',
+  'email_Host' => 'localhost',
+  'email_Port' => 25,
+  'email_SMTPSecure' => '',
+  'email_Username' => '',
   'email_use_phpMailer' => 1,
   'email_SMTPAuth' => 1,
-  'email_Password' => 'Tk$2M001212',
+  'email_Password' => '',
 );

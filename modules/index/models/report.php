@@ -35,7 +35,7 @@ class Model extends \Kotchasan\Model
                 array('active', 1),
                 /*array('permission', 'LIKE', '%,can_repair,%'),*/
             ))
-            ->order('id')
+            ->order('name')
             ->toArray()
             ->execute();
            
@@ -324,7 +324,7 @@ class Model extends \Kotchasan\Model
             ->from('repair_status')
             ->groupBy('repair_id');
 
-         return static::createQuery() 
+         return  static::createQuery() 
             ->select('R.id', 'R.job_id','S.status', 'R.create_date'  ,'S.create_date as end_date'
             , 'R.product_no'
             , 'V.topic'
@@ -368,7 +368,6 @@ class Model extends \Kotchasan\Model
             ->andWhere($where2)
             ->execute()  
             ;
-
 
     }
    

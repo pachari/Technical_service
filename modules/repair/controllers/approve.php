@@ -34,7 +34,7 @@ class Controller extends \Gcms\Controller
         // สมาชิก
         $login = Login::isMember();
         // สามารถจัดการรายการซ่อมได้, ช่างซ่อม
-        if (Login::checkPermission($login, array('approve_manage_repair', 'approve_repair'))) {
+        if (Login::checkPermission($login, array('approve_repair'))) {
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',

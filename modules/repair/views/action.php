@@ -163,7 +163,7 @@ class View extends \Gcms\View
             'accept' => array('jpg', 'jpeg', 'png'), 
         ));  
 
-        if (Login::checkPermission($login, 'approve_manage_repair')) {
+        if (Login::checkPermission($login, 'approve_repair')) {
             // operator_id
             $fieldset->add('hidden', array( //select
                 'id' => 'operator_id',

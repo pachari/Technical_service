@@ -190,6 +190,8 @@ class Model extends \Kotchasan\Model
                     'modify_by'             => $login['id'],
                     'status'                    => 1,
                 );
+
+            
                 // Database
                 $db = $this->db();   
                 // ตาราง
@@ -222,7 +224,7 @@ class Model extends \Kotchasan\Model
                         }elseif($repair['send_approve'] == ''){
                             $ret['ret_approve_name'] = Language::get('Please select').' '.Language::get('Approve');   
                         }else {   
-                               
+                       
                     // สามารถจัดการรายการซ่อมได้
                     $can_manage_repair = Login::checkPermission($login, 'can_manage_repair');
                     // ตรวจสอบรายการที่เลือก
@@ -245,11 +247,14 @@ class Model extends \Kotchasan\Model
                                                 
                                                $Getlastid =  self::getid();
                                                $next_id = $Getlastid[0]->id + 1;
+
+                                             
                                                 ///<------------------------------------------------- อัปโหลดไฟล์ -------------------------------------->
                                                 $dir = ROOT_PATH.DATA_FOLDER.'file_attachment_user/';  
                                                 $i=0;
 
                                                 foreach ($request->getUploadedFiles() as $item => $file) {
+                                                
 
                                                         if(!empty($file->hasUploadFile())){
 
@@ -268,7 +273,6 @@ class Model extends \Kotchasan\Model
                                                                                 $ret['ret_'.$item] = Language::get('The type of file is invalid');
                                                                             
                                                                             }else {
-                                                                                
                                                                                     try {
                                                                                         $i= $i+1;
                                                                                         $check_alert = 0;
@@ -284,17 +288,18 @@ class Model extends \Kotchasan\Model
                                                                 } elseif ($file->hasError()) {
                                                                     // ข้อผิดพลาดการอัปโหลด
                                                                     $ret['ret_'.$item] = Language::get($file->getErrorMessage());
-
                                                                 }
 
-                                                        }else{
+                                                        }else{   
                                                                     $check_alert = 0;
                                                                     $repair ['attachment_no'] = 0;
                                                                 }
-                                                }              
+                                                }  
+                                                  
                                                 if($check_alert == 0) {
+                                                  
                                                         // job_id
-                                                        $repair['job_id'] = \Index\Number\Model::get(0,$type_job_run, $repair_table, 'job_id');   
+                                                        $repair['job_id'] = \Index\Number\Model::get(0,$type_job_run, $repair_table, 'job_id');  
                                                         // บันทึกรายการแจ้งซ่อม
                                                         $log = array(
                                                         'repair_id' => $db->insert($repair_table, $repair),
@@ -303,7 +308,7 @@ class Model extends \Kotchasan\Model
                                                         'status' => isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 1,
                                                         'create_date' => $repair['create_date'],
                                                         'operator_id' => 0,
-                                                    );             
+                                                    );          
                                                     // บันทึกประวัติการทำรายการ แจ้งซ่อม
                                                     $db->insert($repair_status_table, $log);
                                                     // ใหม่ ส่งอีเมลไปยังผู้ที่เกี่ยวข้อง
@@ -316,8 +321,9 @@ class Model extends \Kotchasan\Model
                                                 $db->update($repair_table, $index->id, $repair);
                                                 // คืนค่า
                                                 $ret['alert'] = Language::get('Saved successfully');  
-                                            }
-                                        if ($can_manage_repair && $index->id > 0 && $check_alert == 0) {
+                                        }
+
+                                        if ($can_manage_repair && $index->id > 0 ) {
                                             // สามารถจัดการรายการซ่อมได้
                                             $ret['location'] = $request->getUri()->postBack('index.php', array('module' => 'repair-setup', 'id' => null));
                                         } else if( $check_alert == 0) {

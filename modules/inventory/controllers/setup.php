@@ -30,7 +30,7 @@ class Controller extends \Gcms\Controller
         // ข้อความ title bar
         $this->title = Language::trans('{LNG_List of} {LNG_Inventory}');
         // เลือกเมนู
-        $this->menu = 'settings';
+        $this->menu = 'types';
         // สามารถบริหารจัดการได้
         if (Login::checkPermission(Login::isMember(), 'can_manage_inventory')) {
             // แสดงผล

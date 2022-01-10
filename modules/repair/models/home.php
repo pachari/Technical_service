@@ -336,7 +336,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair', 'approve_manage_repair', 'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair',  'approve_repair'));
         if ($isStaff) {
 
             $status = isset(self::$cfg->repair_status) ? self::$cfg->repair_status : 8;
@@ -436,7 +436,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair', 'approve_manage_repair', 'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair', 'approve_repair'));
         if ($isStaff) {
 
             //$status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 8;
@@ -476,7 +476,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair', 'approve_manage_repair', 'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair',  'approve_repair'));
         if ($isStaff) {
 
             //$status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 8;
@@ -549,8 +549,12 @@ class Model extends \Kotchasan\Model
                 $where[] = array('U.status',$params['member_id']);
             }
         }else{
-            $where = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
+            $where[] = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
         }    
+        $login = Login::isMember();
+        if($login["status"] != 1){
+            $where[] = (array('U.status',$login["status"]));
+        }
        
         
         $q1 = static::createQuery()
@@ -590,7 +594,6 @@ class Model extends \Kotchasan\Model
     }
     public static function get_group($params)
     {
-
         if(!empty($params['from']) && !empty($params['to'])){
                 
             if($params['member_id'] == '-1'){
@@ -602,51 +605,54 @@ class Model extends \Kotchasan\Model
                 $where[] = array('U.status',$params['member_id']);
             }
         }else{
-            $where = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
+            $where[] = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
         }    
-
+        $login = Login::isMember();
+        if($login["status"] != 1){
+            $where[] = (array('U.status',$login["status"]));
+        }
             return  static::createQuery()
             ->select(
                 (array(
-                          //  Sql::SUM(Sql::IF('U.status', 0, 1, 0), '0'),
-                            Sql::SUM(Sql::IF('U.status', 1, 1, 0), '1'),
-                            Sql::SUM(Sql::IF('U.status', 2, 1, 0), '2'),
-                            Sql::SUM(Sql::IF('U.status', 3, 1, 0), '3'),
-                            Sql::SUM(Sql::IF('U.status', 4, 1, 0), '4'),
-                            Sql::SUM(Sql::IF('U.status', 5, 1, 0), '5'),
-                            Sql::SUM(Sql::IF('U.status', 6, 1, 0), '6'),
-                            Sql::SUM(Sql::IF('U.status', 7, 1, 0), '7'),
-                            Sql::SUM(Sql::IF('U.status', 8, 1, 0), '8'),
-                            Sql::SUM(Sql::IF('U.status', 9, 1, 0), '9'),
-                            Sql::SUM(Sql::IF('U.status', 10, 1, 0), '10'),
-                            Sql::SUM(Sql::IF('U.status', 11, 1, 0), '11'),
-                            Sql::SUM(Sql::IF('U.status', 12, 1, 0), '12'),
-                            Sql::SUM(Sql::IF('U.status', 13, 1, 0), '13'),
-                            Sql::SUM(Sql::IF('U.status', 14, 1, 0), '14'),
-                            Sql::SUM(Sql::IF('U.status', 15, 1, 0), '15'),
-                            Sql::SUM(Sql::IF('U.status', 16, 1, 0), '16'),
-                            Sql::SUM(Sql::IF('U.status', 17, 1, 0), '17'),
-                            Sql::SUM(Sql::IF('U.status', 18, 1, 0), '18'),
-                            Sql::SUM(Sql::IF('U.status', 19, 1, 0), '19'),
-                            Sql::SUM(Sql::IF('U.status', 20, 1, 0), '20'),
-                            Sql::SUM(Sql::IF('U.status', 21, 1, 0), '21'),
-                            Sql::SUM(Sql::IF('U.status', 22, 1, 0), '22'),
-                            Sql::SUM(Sql::IF('U.status', 23, 1, 0), '23'),
-                            Sql::SUM(Sql::IF('U.status', 24, 1, 0), '24'),
-                            Sql::SUM(Sql::IF('U.status', 25, 1, 0), '25'),
-                            Sql::SUM(Sql::IF('U.status', 26, 1, 0), '26'),
-                            Sql::SUM(Sql::IF('U.status', 27, 1, 0), '27'),
-                            Sql::SUM(Sql::IF('U.status', 28, 1, 0), '28'),
-                            Sql::SUM(Sql::IF('U.status', 29, 1, 0), '29'),
-                            Sql::SUM(Sql::IF('U.status', 30, 1, 0), '30'),
-                            Sql::SUM(Sql::IF('U.status', 31, 1, 0), '31'),
-                            Sql::SUM(Sql::IF('U.status', 32, 1, 0), '32'),
-                            Sql::SUM(Sql::IF('U.status', 33, 1, 0), '33'),
-                            Sql::SUM(Sql::IF('U.status', 34, 1, 0), '34'),
-                            Sql::SUM(Sql::IF('U.status', 35, 1, 0), '35'),
-                            Sql::SUM(Sql::IF('U.status', 36, 1, 0), '36'),
-                            Sql::SUM(Sql::IF('U.status', 37, 1, 0), '37'),
-                            Sql::SUM(Sql::IF('U.status', 38, 1, 0), '38'),
+                            Sql::SUM(Sql::IF('U.status', 0, 1, 0), '00'),
+                            Sql::SUM(Sql::IF('U.status', 1, 1, 0), '01'),
+                            Sql::SUM(Sql::IF('U.status', 2, 1, 0), '02'),
+                            Sql::SUM(Sql::IF('U.status', 3, 1, 0), '03'),
+                            Sql::SUM(Sql::IF('U.status', 4, 1, 0), '04'),
+                            Sql::SUM(Sql::IF('U.status', 5, 1, 0), '05'),
+                            Sql::SUM(Sql::IF('U.status', 6, 1, 0), '06'),
+                            Sql::SUM(Sql::IF('U.status', 7, 1, 0), '07'),
+                            Sql::SUM(Sql::IF('U.status', 8, 1, 0), '08'),
+                            Sql::SUM(Sql::IF('U.status', 9, 1, 0), '09'),
+                            Sql::SUM(Sql::IF('U.status', 10, 1, 0), '010'),
+                            Sql::SUM(Sql::IF('U.status', 11, 1, 0), '011'),
+                            Sql::SUM(Sql::IF('U.status', 12, 1, 0), '012'),
+                            Sql::SUM(Sql::IF('U.status', 13, 1, 0), '013'),
+                            Sql::SUM(Sql::IF('U.status', 14, 1, 0), '014'),
+                            Sql::SUM(Sql::IF('U.status', 15, 1, 0), '015'),
+                            Sql::SUM(Sql::IF('U.status', 16, 1, 0), '016'),
+                            Sql::SUM(Sql::IF('U.status', 17, 1, 0), '017'),
+                            Sql::SUM(Sql::IF('U.status', 18, 1, 0), '018'),
+                            Sql::SUM(Sql::IF('U.status', 19, 1, 0), '019'),
+                            Sql::SUM(Sql::IF('U.status', 20, 1, 0), '020'),
+                            Sql::SUM(Sql::IF('U.status', 21, 1, 0), '021'),
+                            Sql::SUM(Sql::IF('U.status', 22, 1, 0), '022'),
+                            Sql::SUM(Sql::IF('U.status', 23, 1, 0), '023'),
+                            Sql::SUM(Sql::IF('U.status', 24, 1, 0), '024'),
+                            Sql::SUM(Sql::IF('U.status', 25, 1, 0), '025'),
+                            Sql::SUM(Sql::IF('U.status', 26, 1, 0), '026'),
+                            Sql::SUM(Sql::IF('U.status', 27, 1, 0), '027'),
+                            Sql::SUM(Sql::IF('U.status', 28, 1, 0), '028'),
+                            Sql::SUM(Sql::IF('U.status', 29, 1, 0), '029'),
+                            Sql::SUM(Sql::IF('U.status', 30, 1, 0), '030'),
+                            Sql::SUM(Sql::IF('U.status', 31, 1, 0), '031'),
+                            Sql::SUM(Sql::IF('U.status', 32, 1, 0), '032'),
+                            Sql::SUM(Sql::IF('U.status', 33, 1, 0), '033'),
+                            Sql::SUM(Sql::IF('U.status', 34, 1, 0), '034'),
+                            Sql::SUM(Sql::IF('U.status', 35, 1, 0), '035'),
+                            Sql::SUM(Sql::IF('U.status', 36, 1, 0), '036'),
+                            Sql::SUM(Sql::IF('U.status', 37, 1, 0), '037'),
+                            Sql::SUM(Sql::IF('U.status', 38, 1, 0), '038'),
                 ))
             )
             ->from('repair R')
@@ -654,11 +660,16 @@ class Model extends \Kotchasan\Model
             ->where($where)
             //->groupBy('U.status')
             ->toArray()
-            ->execute() ;
+            ->execute() 
+            ;
                
     }
     public static function get_category($params)
     {
+        $login = Login::isMember();
+        if($login["status"] != 1){
+            $where[] = (array('U.status',$login["status"]));
+        }
            //Query ตามการค้นหาช่วงวันที่ User เลือก
            if(!empty($params['from']) && !empty($params['to'])){
                 
@@ -671,7 +682,7 @@ class Model extends \Kotchasan\Model
                     $where[] = array('U.status',$params['member_id']);
                 }
             }else{
-                $where = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
+                $where[]  = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
             }    
 
         $q1 = static::createQuery()
@@ -702,7 +713,10 @@ class Model extends \Kotchasan\Model
     }
     public static function get_type( $params)
     {
-     
+        $login = Login::isMember();
+        if($login["status"] != 1){
+            $where[] = (array('U.status',$login["status"]));
+        }
          //Query ตามการค้นหาช่วงวันที่ User เลือก
             if(!empty($params['from']) && !empty($params['to'])){
                 
@@ -715,12 +729,13 @@ class Model extends \Kotchasan\Model
                         $where[] = array('U.status', $params['member_id']);//$params['login_id']['status']);
                     }
             }else{
-              $where = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
+              $where[] = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
             }
             return static::createQuery()
             ->select(SQL::COUNT('R.id','count'),'R.product_no'    )
             ->from('repair R')
             ->join('inventory_items I', 'LEFT', array('I.product_no', 'R.product_no'))
+            ->join('user U', 'LEFT', array('U.id', 'R.create_by'))
             ->where($where)
             ->groupby('R.product_no')
             ->order('I.inventory_id ASC')

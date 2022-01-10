@@ -42,7 +42,7 @@ class View extends \Gcms\View
         //เช็คกลุ่มผู้ใช้งาน
         $gmember = \Index\Member\Model::getMemberstatus($index->s_group);
         if($index->status == '9' || $index->status == '10' || $index->status == '11' || $index->status == '12'){ // template for approve/none approve
-            if (Login::checkPermission($login, array('can_manage_repair','can_repair','approve_manage_repair','approve_repair')) ){
+            if (Login::checkPermission($login, array('can_manage_repair','can_repair','approve_repair')) ){
                 $template = Template::createFromFile(ROOT_PATH.'modules/repair/views/detail2.html');
             }else{  $template = Template::createFromFile(ROOT_PATH.'modules/repair/views/detail3.html');  } 
         }else{ // template standard All Status
