@@ -169,11 +169,11 @@ class View extends \Gcms\View
                     'delete' => '{LNG_Delete}',
                 ),
             );
-         /*   $table->buttons['edit'] = array(
+            $table->buttons['edit'] = array(
                 'class' => 'icon-edit button green',
                 'href' => $uri->createBackUri(array('module' => 'repair-receive', 'id' => ':id')),
                 'title' => '{LNG_Edit} {LNG_Technical Service details}',
-            ); */
+            ); 
         }
         // save cookie
         setcookie('repairSetup_perPage', $table->perPage, time() + 2592000, '/', HOST, HTTPS, true);

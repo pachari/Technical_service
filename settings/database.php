@@ -6,7 +6,7 @@ return array (
             'dbdriver' => 'mysql',
             'username' => 'root',
             'password' => '', //31M@ssw0rd
-            'dbname' => 'all_db_it', //it_management
+            'dbname' => 'it_management', 
             'prefix' => 'pit',
             'hostname' => 'localhost',
           ),

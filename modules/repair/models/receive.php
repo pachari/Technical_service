@@ -60,22 +60,46 @@ class Model extends \Kotchasan\Model
                             );
         } else {
 
+            $q0_name = static::createQuery()
+            ->select('U1.name as send_approve2')
+            ->from('user U1')
+            ->where(array('U1.id', 'R.send_approve'));
+            $q0_group = static::createQuery()    
+                ->select('U3.status as s_group')
+                ->from('user U3')
+                ->where(array('U3.id', 'R.create_by'));
+            $q1 = static::createQuery()
+                ->select('repair_id', Sql::MAX('id', 'max_id'))
+                ->from('repair_status')
+                ->groupBy('repair_id');
             return  static::createQuery() 
                 ->from('repair R')
+                ->join(array($q1, 'T'), 'LEFT', array('T.repair_id', 'R.id'))
+                ->join('repair_status S', 'LEFT', array('S.id', 'T.max_id'))
                 ->join('inventory_items I', 'LEFT', array('I.product_no', 'R.product_no'))
                 ->join('inventory V', 'LEFT', array('V.id', 'I.inventory_id'))
+                ->join('user U', 'LEFT', array('U.id', 'R.create_by')) //customer_id
                 ->join('customer C', 'LEFT', array('C.id', 'R.customer_id'))
-               // ->join('contact T', 'LEFT', array('T.address_id', 'c.id'))
+                ->join('contact CT', 'LEFT', array('CT.id', 'R.contact_id'))
+               /* ->join('inventory_items I', 'LEFT', array('I.product_no', 'R.product_no'))
+                ->join('inventory V', 'LEFT', array('V.id', 'I.inventory_id'))
+                ->join('customer C', 'LEFT', array('C.id', 'R.customer_id'))
+               // ->join('contact T', 'LEFT', array('T.address_id', 'c.id'))*/
                 ->where(array('R.id', $id))
-                ->order('id')
-                ->first('R.*', 'V.topic'
+                ->order('id') 
+               ->first('R.*'
+                             , 'V.topic'
                             ,'V.category_id'
                             ,'V.model_id'
                             ,'V.type_id'
                             ,'C.id as customer_id'
-                            ,'C.customer_name'
-                            ,'C.address'
-                        ) ;
+                            ,'R.type_job_number'
+                            ,'R.type_work'
+                            ,SQL::DATE_FORMAT('R.request_date', '%Y-%m-%d','DATE_REQ') 
+                            ,SQL::DATE_FORMAT('R.request_date', '%H:%i','TIME_REQ') 
+                            , 'U.name', 'U.phone',  'S.create_date as date_approve','S.status', 'S.comment', 'S.operator_id', 'S.id status_id',array( $q0_name,'send_approve2'),array( $q0_group,'s_group'),SQL::SUM('S.cost','COST'),'C.address','C.customer_name','CT.contact_name','CT.contact_tel','CT.position'
+                        )
+                        ;
         }
     }
  /**
@@ -178,8 +202,8 @@ class Model extends \Kotchasan\Model
                     'product_no'          =>   $request->post('product_no')->topic(),
                     'type_work'            =>    $request->post('product_no')->toInt(),
                     'job_description'    =>     $request->post('job_description')->textarea(),
-                    'send_approve'        =>      $request->post('approve_id')->topic(),  
-                    'type_job_number'  =>   $request->post('type_job_number')->topic(),  
+                    'send_approve'        =>      $request->post('approve_id')->toInt(),  
+                    'type_job_number'  =>   $request->post('type_job_number')->toInt(),  
                 ); 
                 $contact = array(
                     'customer_id'           =>     $request->post('customer_id')->topic(),
@@ -191,7 +215,14 @@ class Model extends \Kotchasan\Model
                     'status'                    => 1,
                 );
 
-            
+              //หาประเภทรายการ
+              $type_work_name = \repair\Receive\Model::createProduct();  
+                foreach($type_work_name->product_no as $k => $value){
+                    if( $k == $repair['product_no']){
+                        $type_work = $value;
+                    }
+                }
+                $repair['product_no'] =$type_work;            
                 // Database
                 $db = $this->db();   
                 // ตาราง
@@ -221,7 +252,7 @@ class Model extends \Kotchasan\Model
                             $ret['alert']  = Language::get('Please select').' '.Language::get('type_repair'); 
                         }elseif($repair['product_no'] == ''){
                             $ret['alert']  = Language::get('Please select').' '.Language::get('types of objective'); 
-                        }elseif($repair['send_approve'] == ''){
+                        }elseif($repair['send_approve'] == '' || $repair['send_approve'] == '0'){
                             $ret['ret_approve_name'] = Language::get('Please select').' '.Language::get('Approve');   
                         }else {   
                        

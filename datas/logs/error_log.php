@@ -18071,3 +18071,877 @@
 [2022-01-10 10:18:08] ERROR: <br>PHP warning : <em>Undefined array key "type_id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\report.php</b> on line <b>383</b> 
 [2022-01-10 10:18:09] ERROR: <br>PHP warning : <em>Undefined array key "039"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\reportg.php</b> on line <b>266</b> 
 [2022-01-10 10:18:09] ERROR: <br>PHP warning : <em>Undefined array key "039"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\reportg.php</b> on line <b>267</b> 
+[2022-01-10 14:55:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-10 14:55:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-10 14:55:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-10 14:55:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-10 14:55:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 14:55:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 14:56:59] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-10 14:56:59] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-10 14:57:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 14:57:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 14:57:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 14:57:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 14:58:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 14:58:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 14:58:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 14:58:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>70</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>79</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>93</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>138</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 15:00:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>194</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:07:59] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "start_date" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>50</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:08:30] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:08:52] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "create_date" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>50</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:09:12] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>50</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:09:36] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:09:53] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:10:06] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:10:49] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>71</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>80</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>94</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>139</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 15:11:01] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>195</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>72</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>81</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>95</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>140</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 15:11:23] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>196</b> 
+[2022-01-10 15:11:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 15:11:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 15:11:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$start_date</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>51</b> 
+[2022-01-10 15:11:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 15:11:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 15:12:16] ERROR: <br>Exception : <em>Cannot use object of type stdClass as array</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 15:12:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 15:12:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 15:12:59] ERROR: <br>Exception : <em>Cannot use object of type stdClass as array</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 15:13:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 15:13:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 15:13:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>159</b> 
+[2022-01-10 15:13:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>168</b> 
+[2022-01-10 15:13:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 15:13:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 15:14:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 15:14:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 15:17:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 15:17:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 15:17:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 15:17:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 15:20:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:20:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:20:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:20:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:20:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:20:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:21:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:21:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:22:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:22:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:22:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:22:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:22:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:22:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:25:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:25:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:26:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:26:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:26:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:26:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:26:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:26:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:27:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:27:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:27:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:27:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:27:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:27:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:28:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:28:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:29:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:29:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:29:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:29:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:29:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:29:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:29:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:29:55] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:30:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:30:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:30:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:30:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:30:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:30:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:31:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:31:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:31:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:31:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:31:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:31:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:32:42] ERROR: <br>Exception : <em>Call to undefined method stdClass::request_date()</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 15:33:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:33:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:33:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:33:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:34:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:34:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:34:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:34:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:34:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:34:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:35:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:35:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:35:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:35:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:35:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>163</b> 
+[2022-01-10 15:35:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:36:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>163</b> 
+[2022-01-10 15:36:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 15:36:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:36:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:37:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:37:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:37:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:37:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:37:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:37:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:37:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 15:37:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 15:45:32] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 15:46:54] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 15:47:39] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 15:48:13] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:18:14] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:19:09] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:19:24] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:20:19] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:20:32] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:20:58] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:22:07] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:22:17] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:22:27] ERROR: <br>Exception : <em>SQLSTATE[42S22]: Column not found: 1054 Unknown column '2022-01-10' in 'field list'</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-10 16:23:04] ERROR: <br>Exception : <em>Unclosed '{' on line 61 does not match ')'</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 16:23:16] ERROR: <br>Exception : <em>Unclosed '{' on line 61 does not match ')'</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:29:51] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:31:26] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:33:27] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "customer_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "customer_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "contact_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "job_description" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "approve_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "approve_name" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "status_id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:36:21] ERROR: <br>PHP warning : <em>Attempt to read property "id" on null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>36</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>40</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\receive.php</b> on line <b>52</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$customer_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>74</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$customer_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>83</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$contact_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>97</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$job_description</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>142</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$status_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>183</b> 
+[2022-01-10 16:36:34] ERROR: <br>PHP warning : <em>Undefined property: Kotchasan\Database\QueryBuilder::$id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-10 16:37:14] ERROR: <br>Exception : <em>Unclosed '{' on line 61 does not match ')'</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 16:37:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:37:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:39:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:39:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 16:41:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>160</b> 
+[2022-01-10 16:41:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 16:46:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 16:46:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 16:46:47] ERROR: <br>Exception : <em>syntax error, unexpected token ";", expecting ")"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\loader.php</b> on line <b>61</b> 
+[2022-01-10 16:47:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 16:47:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 16:47:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>161</b> 
+[2022-01-10 16:47:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 16:47:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 16:47:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:14:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 17:14:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:16:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 17:16:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:21:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 17:21:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:22:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>162</b> 
+[2022-01-10 17:22:15] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:22:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>163</b> 
+[2022-01-10 17:22:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>172</b> 
+[2022-01-10 17:24:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:24:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:24:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:24:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:24:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:24:32] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:26:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:26:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:26:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:26:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:28:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-10 17:28:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:29:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:29:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:30:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:30:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:30:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:30:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:31:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>171</b> 
+[2022-01-10 17:31:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:32:23] ERROR: <br>PHP warning : <em>Undefined variable $type_job_number</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>133</b> 
+[2022-01-10 17:32:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-10 17:32:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 17:32:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-10 17:32:50] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 17:33:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-10 17:33:08] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 17:33:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>166</b> 
+[2022-01-10 17:33:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>175</b> 
+[2022-01-10 17:34:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-10 17:34:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>176</b> 
+[2022-01-10 17:36:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:36:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>188</b> 
+[2022-01-10 17:37:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>179</b> 
+[2022-01-10 17:37:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>188</b> 
+[2022-01-10 17:38:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:38:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>189</b> 
+[2022-01-10 17:38:20] ERROR: <br>Exception : <em>preg_match_all(): Argument #2 ($subject) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Html.php</b> on line <b>247</b> 
+[2022-01-10 17:38:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:38:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>189</b> 
+[2022-01-10 17:38:26] ERROR: <br>Exception : <em>preg_match_all(): Argument #2 ($subject) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Html.php</b> on line <b>247</b> 
+[2022-01-10 17:39:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>169</b> 
+[2022-01-10 17:39:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>178</b> 
+[2022-01-10 17:39:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:39:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:39:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:39:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:40:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:40:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:40:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-10 17:40:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>189</b> 
+[2022-01-10 17:40:51] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:41:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:41:45] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:42:07] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:43:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:43:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:43:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:43:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:48:36] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:48:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:48:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:48:45] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:48:53] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:49:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:49:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:49:11] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:49:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:49:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:49:43] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:49:43] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:49:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:49:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:49:47] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:49:47] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:49:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:49:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:50:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-10 17:50:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>149</b> 
+[2022-01-10 17:50:09] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:50:09] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 17:50:29] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:50:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:50:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:50:59] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:51:00] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:51:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:51:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:51:33] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 17:53:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:53:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:55:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:55:18] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:57:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:57:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:57:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:57:21] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 17:58:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 17:58:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:00:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:00:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:00:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:00:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:02:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:02:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:02:29] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:02:32] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:03:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:03:06] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:03:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:03:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:04:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 18:04:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-10 18:05:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 18:05:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-10 18:08:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 18:08:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-10 18:08:40] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$product_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>218</b> 
+[2022-01-10 18:08:40] ERROR: <br>Exception : <em>Call to a member function getProduct() on null</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-10 18:09:15] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$product_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>218</b> 
+[2022-01-10 18:09:15] ERROR: <br>Exception : <em>Call to a member function getProduct() on null</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-10 18:11:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 18:11:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-10 18:11:21] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:11:54] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:11:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>182</b> 
+[2022-01-10 18:11:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-10 18:12:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:12:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:12:20] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:12:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:12:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:12:55] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:13:29] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:13:34] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:13:35] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:13:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:13:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:13:44] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:13:44] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:13:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:13:44] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:13:47] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:13:49] ERROR: <br>PHP warning : <em>Undefined variable $type_work</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>226</b> 
+[2022-01-10 18:14:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:14:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:14:37] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:16:33] ERROR: <br>Exception : <em>Cannot use object of type Repair\Receive\Model as array</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-10 18:17:40] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$292</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>224</b> 
+[2022-01-10 18:17:40] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$293</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>224</b> 
+[2022-01-10 18:17:40] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$295</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>224</b> 
+[2022-01-10 18:17:40] ERROR: <br>PHP warning : <em>Undefined property: Repair\Receive\Model::$296</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>224</b> 
+[2022-01-10 18:18:26] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:26] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:26] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:26] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:38] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:38] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:38] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:18:38] ERROR: <br>PHP notice : <em>Object of class Repair\Receive\Model could not be converted to int</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>221</b> 
+[2022-01-10 18:19:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:19:25] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:19:28] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:20:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:20:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:20:20] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:20:28] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:20:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:20:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:20:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:20:32] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:21:03] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:21:03] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-10 18:21:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:21:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:21:07] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:21:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:21:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:21:14] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-10 18:21:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-10 18:21:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-10 18:21:27] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 08:20:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 08:20:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 08:20:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 08:20:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 08:20:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-11 08:20:28] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-11 08:20:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-11 08:20:48] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 08:21:24] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-11 08:21:24] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-11 08:21:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-11 08:21:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 08:22:01] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 08:22:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>181</b> 
+[2022-01-11 08:22:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 08:22:19] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 08:22:30] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-11 08:22:30] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-11 08:22:30] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>174</b> 
+[2022-01-11 08:23:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-11 08:23:10] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>193</b> 
+[2022-01-11 08:23:10] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>193</b> 
+[2022-01-11 08:23:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 08:23:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>176</b> 
+[2022-01-11 08:24:35] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-11 08:24:35] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>193</b> 
+[2022-01-11 08:24:35] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>193</b> 
+[2022-01-11 08:24:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 08:24:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>176</b> 
+[2022-01-11 08:24:44] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 08:25:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-11 08:25:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>189</b> 
+[2022-01-11 08:25:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>58</b> 
+[2022-01-11 08:25:51] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-11 08:25:51] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>173</b> 
+[2022-01-11 08:26:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>180</b> 
+[2022-01-11 08:26:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>189</b> 
+[2022-01-11 08:50:59] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:50:59] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-11 08:50:59] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>170</b> 
+[2022-01-11 08:52:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:52:11] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-11 08:52:11] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>158</b> 
+[2022-01-11 08:52:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:52:34] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:52:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:52:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:52:39] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:52:39] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:53:03] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:03] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:53:22] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:22] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:41] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 08:53:41] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:41] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>199</b> 
+[2022-01-11 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 08:58:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 08:58:21] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:00:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 09:00:18] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:21:58] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 09:22:02] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:22:16] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:22] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:31] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:31] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:39] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:45] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:22:53] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:23:00] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 09:23:11] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 09:23:17] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 09:23:19] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>167</b> 
+[2022-01-11 09:23:31] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:25:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>207</b> 
+[2022-01-11 09:25:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 09:25:12] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 09:25:14] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:25:18] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:25:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>207</b> 
+[2022-01-11 09:25:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 09:25:40] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 09:25:42] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:25:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>207</b> 
+[2022-01-11 09:25:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 09:25:54] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 09:25:56] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:29:13] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:30:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 09:30:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 09:30:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_name</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 09:32:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 09:32:05] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 09:32:10] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:32:11] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 09:33:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 09:33:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:17:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 16:17:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 16:17:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 16:17:25] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 16:17:33] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-11 16:17:33] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-11 16:17:39] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:39] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:17:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:17:43] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:43] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:17:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:17:47] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:47] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:17:47] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:17:53] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:53] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:19:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:19:28] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:19:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:19:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:19:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:19:29] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:19:29] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:19:29] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:19:31] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:20:11] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 16:20:36] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:20:39] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-11 16:20:43] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:43] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:20:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:20:43] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:20:48] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:21:01] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:21:01] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:21:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:21:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$approve_id</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:26] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:29] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:23:31] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>208</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>218</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:23:33] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>200</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>156</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>157</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>156</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>157</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:46] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:24:59] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 16:24:59] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 16:24:59] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-11 16:24:59] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>156</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>157</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>156</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>157</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>190</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:25:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>226</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:26:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:26:23] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:26:54] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-11 16:26:58] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:26:58] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:27:54] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:27:54] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>205</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>215</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:00] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>198</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:28:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>191</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>206</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>216</b> 
+[2022-01-11 16:35:10] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>217</b> 
+[2022-01-12 09:26:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:17] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:17] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:17] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:17] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:23] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-12 09:26:35] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:35] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 09:26:35] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 09:26:35] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 

@@ -112,6 +112,7 @@ class View extends \Gcms\View
                     'href' => $uri->createBackUri(array('module' => 'repair-detail', 'id' => ':id')),
                     'title' => '{LNG_Technical Service job description}',
                 ),
+                
             ),
         ));
         // save cookie
