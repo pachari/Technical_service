@@ -80,15 +80,28 @@ class View extends \Gcms\View
                     'id' => 'customer_id',
                     'value' => $index->customer_id,
                 ));
-                // customer_name
-                $groups->add('text', array(
-                    'id' => 'customer_name',
-                    'labelClass' => 'g-input icon-product',
-                    'itemClass' => 'width50',
-                    'label' => '*{LNG_Customer Name}',
-                    'maxlength' => 20,
-                    'value' => isset($index->customer_name) ? $index->customer_name :  '', 
-                ));
+                if ($index->id == 0) {
+                    // customer_name
+                    $groups->add('text', array(
+                        'id' => 'customer_name',
+                        'labelClass' => 'g-input icon-product',
+                        'itemClass' => 'width50',
+                        'label' => '*{LNG_Customer Name}',
+                        'maxlength' => 20,
+                        'value' => isset($index->customer_name) ? $index->customer_name :  '', 
+                    ));
+                }else{
+                    // customer_name
+                    $groups->add('text', array(
+                        'id' => 'customer_name',
+                        'labelClass' => 'g-input icon-product',
+                        'itemClass' => 'width50',
+                        'label' => '*{LNG_Customer Name}',
+                        'maxlength' => 20,
+                        'disabled' => true,
+                        'value' => isset($index->customer_name) ? $index->customer_name :  '', 
+                    ));
+                }
                 // address
                 $groups_address->add('textarea', array(
                     'id' => 'address',

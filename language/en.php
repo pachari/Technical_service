@@ -14,8 +14,7 @@ return array(
     1 => 'Enabled'
   ),
   'Build_example' => 'Build an example',
-  'Can approve manage repair' => 'Can approve manage task',
-  'Can manage repair' => 'Can manage task',
+  'Can approve manage repair' => 'Can approve manage repair',
   'Canceljob' => 'Cancel job',
   'Closejob' => 'Close job',
   'Comment' => 'Comment',
@@ -50,6 +49,7 @@ return array(
     6 => 'Sa'
   ),
   'Disapproved' => 'Disapproved',
+  'email_cc' => 'Cc',
   'Emailing' => 'Email',
   'End date' => 'End date',
   'file_attachment' => 'file attachment',

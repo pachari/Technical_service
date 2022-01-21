@@ -18945,3 +18945,480 @@
 [2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
 [2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
 [2022-01-12 11:03:18] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-12 11:08:47] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-12 11:12:28] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:50:20] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:50:38] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:50:57] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:04] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:10] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:23] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:26] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:49] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:51:53] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:52:16] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:52:19] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:53:37] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:53:37] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:53:37] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:53:37] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:53:39] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:53:39] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:53:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:53:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 08:53:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 08:54:19] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 08:54:21] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 08:54:22] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 08:54:29] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:54:29] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:54:29] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:54:29] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:54:39] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 08:54:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:54:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:54:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 08:54:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 08:55:03] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 08:55:16] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 08:55:23] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:55:25] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:55:32] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:56:18] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:56:19] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:56:23] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>138</b> 
+[2022-01-13 08:56:57] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>139</b> 
+[2022-01-13 08:57:22] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>140</b> 
+[2022-01-13 08:58:33] ERROR: <br>Exception : <em>print_r() expects at most 2 arguments, 5 given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>140</b> 
+[2022-01-13 09:01:15] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-13 09:01:15] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 09:17:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 09:17:42] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 13:15:47] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:12] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:13] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:13] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:14] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:21] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:22] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:22] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:22] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:22] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:16:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:16:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:16:32] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:16:35] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:45] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:50] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:52] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:16:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:16:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:16:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:16:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:17:02] ERROR: <br>Exception : <em>SQLSTATE[HY000]: General error: 1194 Table 'pit_user' is marked as crashed and should be repaired</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Database\Driver.php</b> on line <b>244</b> 
+[2022-01-13 13:26:07] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-13 13:26:07] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 13:27:34] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 13:27:50] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 13:28:10] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 13:29:07] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:07] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:07] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:07] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:16] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 13:29:38] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 13:29:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:29:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 13:29:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 13:30:30] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 13:45:41] ERROR: <br>PHP warning : <em>Attempt to read property "auto_increment" on bool</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\models\number.php</b> on line <b>53</b> 
+[2022-01-13 13:50:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:50:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:50:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-13 13:50:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-13 13:51:31] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 13:51:37] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 13:51:44] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 13:51:59] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 13:52:30] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 13:54:02] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 13:54:10] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:26:00] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:26:16] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 14:26:52] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 14:27:10] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 14:27:12] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:27:36] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:28:03] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:28:30] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 14:28:36] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 14:28:39] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 14:28:45] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 4 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 130 and at least 5 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-13 14:30:35] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-13 14:40:29] ERROR: <br>PHP warning : <em>Attempt to read property "auto_increment" on bool</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\models\number.php</b> on line <b>53</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 14:41:31] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 14:41:42] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 14:42:29] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 14:42:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 14:43:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 14:43:45] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 14:58:13] ERROR: <br>PHP warning : <em>Array to string conversion</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>137</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 15:03:19] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 15:03:31] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 15:05:37] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:05:37] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:05:37] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 15:07:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 15:07:31] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 15:12:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:12:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:12:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 15:13:51] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-13 15:14:01] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-13 15:14:18] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-13 15:14:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:14:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:14:20] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:14:20] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:15:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:15:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:15:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$username_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>128</b> 
+[2022-01-13 15:15:14] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:15:34] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:15:40] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:19:00] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:19:14] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-13 15:19:32] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 08:48:38] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 08:48:38] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 08:48:38] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 08:48:38] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 08:52:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 08:52:50] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 08:57:52] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 08:57:57] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 08:58:20] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 08:58:56] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:04:16] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 09:04:16] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 09:04:16] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 09:04:16] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 09:04:24] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 09:04:35] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 09:09:02] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 09:11:49] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 09:12:03] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 09:12:05] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 09:12:07] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:13:40] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:14:13] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:15:13] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:15:44] ERROR: <br>PHP warning : <em>Array to string conversion</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:19:54] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 09:20:18] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 10:21:26] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 10:21:36] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 10:30:33] ERROR: <br>PHP warning : <em>Attempt to read property "auto_increment" on bool</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\models\number.php</b> on line <b>53</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 10:34:07] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 10:34:16] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 10:34:46] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 10:36:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 10:37:43] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 11:58:13] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 11:58:22] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 13:17:53] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 13:18:09] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 13:18:36] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 13:18:39] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 13:19:10] ERROR: <br>Exception : <em>explode(): Argument #2 ($string) must be of type string, array given</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\email.php</b> on line <b>143</b> 
+[2022-01-17 13:31:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 13:31:42] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 13:31:43] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-17 13:31:43] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-17 13:31:56] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:04:23] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:04:46] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:05:03] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:14:19] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:23:55] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:24:04] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:24:07] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:24:49] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:25:04] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:25:27] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:27:44] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:27:57] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:28:16] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:28:19] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:28:24] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:28:28] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:28:48] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:28:58] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:33:11] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:33:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 15:33:22] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 15:33:34] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-17 15:39:07] ERROR: <br>Exception : <em>Too few arguments to function Kotchasan\Email::send(), 5 passed in C:\xampp2\htdocs\TC-main\modules\repair\models\email.php on line 222 and exactly 6 expected</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\models\receive.php</b> on line <b>347</b> 
+[2022-01-17 16:40:48] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:48:21] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:48:45] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:48:54] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:52:12] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:52:17] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:52:27] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:52:41] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:53:19] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:53:51] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:01] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:04] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:15] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:29] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:35] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:54:43] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:58:48] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:58:53] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:58:59] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 16:59:10] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:01:33] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:01:40] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:01:44] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:01:49] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:01:58] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:02:24] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-17 17:02:28] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-17 17:02:48] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 13:00:03] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 13:00:03] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 13:00:04] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 13:00:04] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 13:00:09] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-18 14:27:14] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-18 14:28:39] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-18 14:28:58] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 14:29:21] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 14:29:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:29:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:29:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:29:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-18 14:29:39] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-18 14:29:48] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-18 14:29:50] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-18 14:29:56] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-18 14:30:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-18 14:30:34] ERROR: <br>PHP notice : <em>session_start(): Ignoring session_start() because a session is already active</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Http\Request.php</b> on line <b>301</b> 
+[2022-01-18 14:32:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:32:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:32:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:32:55] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:32:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:32:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:32:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 14:32:57] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 14:33:05] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-18 14:33:05] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-18 14:55:41] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 15:04:56] ERROR: <br>PHP warning : <em>Undefined array key "id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\editprofile.php</b> on line <b>233</b> 
+[2022-01-18 15:24:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 15:24:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 15:24:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 15:24:34] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 15:26:19] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 15:26:20] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-18 15:26:20] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-18 15:26:20] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-21 07:58:06] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-21 07:58:06] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-21 07:58:06] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-21 07:58:06] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 

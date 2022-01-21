@@ -52,7 +52,7 @@ class Email extends \Kotchasan\KBase
      *
      * @return \static
      */
-    public static function send($mailto, $replyto, $subject, $msg, $cc = '', $bcc = '')
+    public static function send($mailto, $replyto, $subject, $msg, $cc , $bcc)
     {
         // create class
         $obj = new static();
@@ -75,12 +75,15 @@ class Email extends \Kotchasan\KBase
         if (empty(self::$cfg->email_use_phpMailer)) {
             // ส่งอีเมลด้วยฟังก์ชั่นของ PHP
             $emails = array($mailto);
+            
             if ($cc != '') {
                 $emails[] = $cc;
             }
             if ($bcc != '') {
                 $emails[] = $bcc;
             }
+           
+
             $headers = "MIME-Version: 1.0\r\n";
             $headers .= 'Content-type: text/html; charset='.strtoupper($charset)."\r\n";
             $headers .= 'From: '.$replyto[0]."\r\n";
@@ -146,6 +149,7 @@ class Email extends \Kotchasan\KBase
                             $mail->addCC($cc_email);
                         }
                     }
+                    
                 }
                 if ($bcc != '') {
                     foreach (explode(',', $bcc) as $bcc_email) {

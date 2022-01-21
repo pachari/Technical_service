@@ -28,6 +28,7 @@ class Model extends \Kotchasan\Model
      */
     public static function all()
     {
+        $login = Login::notDemoMode(Login::isMember());
         return  \Kotchasan\Model::createQuery() //return
             ->select('id', 'name')
             ->from('user')
@@ -35,9 +36,11 @@ class Model extends \Kotchasan\Model
                 array('active', 1),
                 /*array('permission', 'LIKE', '%,can_repair,%'),*/
             ))
+            ->andWhere(array('id','!=',$login['id']))
             ->order('name')
             ->toArray()
             ->execute();
+           
            
     }
 
