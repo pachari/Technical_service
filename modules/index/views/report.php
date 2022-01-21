@@ -147,8 +147,10 @@ class View extends \Gcms\View
                 $operators[$k] = $v;
             }
         }
-        $params['begindate'] = $request->request('begindate')->topic();
-        $params['enddate'] = $request->request('enddate')->topic();
+        /*$params['begindate'] = $request->request('begindate')->topic();
+        $params['enddate'] = $request->request('enddate')->topic();*/
+        $params['begindate'] = $request->request('begindate', date('Y-m-d', strtotime('-7 days')))->date();
+        $params['enddate'] =  $request->request('enddate', date('Y-m-d'))->date();
        
         // URL สำหรับส่งให้ตาราง
         $uri = self::$request->createUriWithGlobals(WEB_URL.'index.php');

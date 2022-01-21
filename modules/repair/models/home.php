@@ -38,7 +38,7 @@ class Model extends \Kotchasan\Model
                 array(Sql::DATE('S.create_date'), date('Y-m-d')),
             );
             // พนักงาน
-                $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+                $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
                 if ($isStaff) {
                     $status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 8;
                     $where[] = array('S.status', $status);
@@ -76,7 +76,7 @@ class Model extends \Kotchasan\Model
             array(Sql::DATE('S.create_date'), date('Y-m-d')),
         );*/
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
             $status = 11;//isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 11;
             $where[] = array('S.status', $status);
@@ -118,7 +118,7 @@ class Model extends \Kotchasan\Model
             array(Sql::DATE('S.create_date'), date('Y-m-d')),
         );*/
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
           //  $status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 1;
             $status = array('7'); 
@@ -161,7 +161,7 @@ class Model extends \Kotchasan\Model
             array(Sql::DATE('S.create_date'), date('Y-m-d')),
         );*/
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
             $status = 12;//isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 11;
             $where[] = array('S.status', $status);
@@ -203,7 +203,7 @@ class Model extends \Kotchasan\Model
             array(Sql::DATE('S.create_date'), date('Y-m-d')),
         );*/
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
           //  $status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 1;
             $status = array('6'); 
@@ -246,7 +246,7 @@ class Model extends \Kotchasan\Model
             array(Sql::DATE('S.create_date'), date('Y-m-d')),
         );*/
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
           //  $status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 1;
             $status = array('3'); 
@@ -295,7 +295,7 @@ class Model extends \Kotchasan\Model
 
         );
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //array('can_manage_repair', 'can_repair')
         if ($isStaff) {
             //$status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 1;
            // $where[] = array('S.status', $status);
@@ -336,7 +336,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair',  'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config', 'can_repair',  'approve_repair')); //can_manage_repair
         if ($isStaff) {
 
             $status = isset(self::$cfg->repair_status) ? self::$cfg->repair_status : 8;
@@ -381,14 +381,14 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config')); //can_manage_repair
         if ($isStaff) {
 
             $status = isset(self::$cfg->repair_status) ? self::$cfg->repair_status : 8;
-            $where[] = array('S.status', 8);
+            $where[] = array('S.status',  $status);
         } else {
+          //  $where[] = array('R.create_by', $login['id']);
             $where[] = array('S.status', 8);
-            //$where[] = array('R.create_by', $login['id']);
         }
         $q1 = static::createQuery()
             ->select('repair_id', Sql::MAX('id', 'id'))
@@ -404,10 +404,11 @@ class Model extends \Kotchasan\Model
             $query->join('repair R', 'INNER', array('R.id', 'S.repair_id'));
             $query->join('user U', 'INNER', array('U.id', 'R.create_by'));
 
-            $q3 =  date('Y-m' . '-01 00:00:00');
+          /*  $q3 =  date('Y-m' . '-01 00:00:00');
             $q2 = SQL::LAST_DAY(date('Y-m-d 23:59:59'));
             $query->Andwhere(SQL::BETWEEN('S.create_date', $q3, $q2));
-            $query->Andwhere(array('U.head', $login['id'])); 
+            $query->Andwhere(array('U.head', $login['id'])); */
+            $query->Andwhere(array('R.send_approve', $login['id'])); 
           //  $query->join('user U', 'INNER', array('U.id', 'R.create_by'));
         }
     //    $query->Andwhere(array('U.head', $login['id'])); 
@@ -436,7 +437,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair', 'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config', 'can_repair',  'approve_repair')); //can_manage_repair
         if ($isStaff) {
 
             //$status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 8;
@@ -476,7 +477,7 @@ class Model extends \Kotchasan\Model
         // array(Sql::DATE('S.create_date'), date('Y-m-d')),
         //);
         // พนักงาน
-        $isStaff = Login::checkPermission($login, array('can_manage_repair', 'can_repair',  'approve_repair'));
+        $isStaff = Login::checkPermission($login, array('can_config', 'can_repair',  'approve_repair')); //can_manage_repair
         if ($isStaff) {
 
             //$status = isset(self::$cfg->repair_first_status) ? self::$cfg->repair_first_status : 8;
@@ -551,10 +552,10 @@ class Model extends \Kotchasan\Model
         }else{
             $where[] = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
         }    
-        $login = Login::isMember();
+       /* $login = Login::checkPermission(Login::isMember(), array('report'));
         if($login["status"] != 1){
             $where[] = (array('U.status',$login["status"]));
-        }
+        }*/
        
         
         $q1 = static::createQuery()
@@ -607,10 +608,10 @@ class Model extends \Kotchasan\Model
         }else{
             $where[] = (array(SQL::MONTH('R.create_date'), SQL::MONTH(date('Y-m-d H:i:s'))));
         }    
-        $login = Login::isMember();
+     /*   $login = Login::checkPermission(Login::isMember(), array('report'));
         if($login["status"] != 1){
             $where[] = (array('U.status',$login["status"]));
-        }
+        }*/
             return  static::createQuery()
             ->select(
                 (array(
@@ -666,10 +667,10 @@ class Model extends \Kotchasan\Model
     }
     public static function get_category($params)
     {
-        $login = Login::isMember();
+        /*$login = Login::checkPermission(Login::isMember(), array('report'));
         if($login["status"] != 1){
             $where[] = (array('U.status',$login["status"]));
-        }
+        }*/
            //Query ตามการค้นหาช่วงวันที่ User เลือก
            if(!empty($params['from']) && !empty($params['to'])){
                 
@@ -713,10 +714,10 @@ class Model extends \Kotchasan\Model
     }
     public static function get_type( $params)
     {
-        $login = Login::isMember();
+       /* $login = Login::checkPermission(Login::isMember(), array('report'));
         if($login["status"] != 1){
             $where[] = (array('U.status',$login["status"]));
-        }
+        }*/
          //Query ตามการค้นหาช่วงวันที่ User เลือก
             if(!empty($params['from']) && !empty($params['to'])){
                 

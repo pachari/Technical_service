@@ -281,10 +281,10 @@ class Model extends \Kotchasan\Model
     public static function toDataTable2($params)
     {
 
-        $login = Login::isMember();
+        /*$login = Login::isMember();
         if($login["status"] != 1){
-            $where2[] = (array('U.status',$login["status"]));
-        }
+            $where[] = (array('U.status',$login["status"]));
+        }*/
         $where = array();
         if (!empty($params['type_id'])) {
             $where[] = array('V.type_id', $params['type_id']); 
@@ -368,7 +368,7 @@ class Model extends \Kotchasan\Model
             ->join('customer C', 'LEFT', array('C.id', 'R.customer_id'))
             ->join('contact CT', 'LEFT', array('CT.id', 'R.contact_id'))
             ->where($where)
-            ->andWhere($where2)
+          //  ->andWhere($where2)
             ->execute()  
             ;
 

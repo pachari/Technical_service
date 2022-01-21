@@ -71,7 +71,7 @@ class Controller extends \Kotchasan\Controller //extends \Gcms\Controller
                                 $detail .= '</tr>';
                                 $detail .= '<tr>';
                                 $detail .= '<th >ลูกค้า </th>';
-                                $detail .= '<td style="border-bottom-style: solid; border-color: darkgray;">'.$index->customer_name.'</td>';
+                                $detail .= '<td style="border-bottom-style: solid; border-color: darkgray;">'.$index->customer_name.' ('.$index->customer_code.')</td>';
                                 $detail .= '<th >ชื่อผู้ติดต่อ </th>';
                                 $detail .= '<td style="border-bottom-style: solid; border-color: darkgray;">'.$index->contact_name.'</td>';
                                 $detail .= '</tr>';

@@ -43,7 +43,7 @@ class Model extends \Kotchasan\Model
             ->from('repair_status')
             ->groupBy('repair_id');
         $sql = static::createQuery()
-            ->select('R.*', 'U.name', 'U.phone', 'V.topic', 'S.create_date as date_approve','S.status', 'S.comment', 'S.operator_id', 'S.id status_id',array( $q0_name,'send_approve2'),array( $q0_group,'s_group'),SQL::SUM('S.cost','COST'),'C.address','C.customer_name','CT.contact_name','CT.contact_tel','CT.position' )
+            ->select('R.*', 'U.name', 'U.phone', 'V.topic', 'S.create_date as date_approve','S.status', 'S.comment', 'S.operator_id', 'S.id status_id',array( $q0_name,'send_approve2'),array( $q0_group,'s_group'),SQL::SUM('S.cost','COST'),'C.address','C.customer_name','C.customer_code','CT.contact_name','CT.contact_tel','CT.position' )
             ->from('repair R')
             ->join(array($q1, 'T'), 'LEFT', array('T.repair_id', 'R.id'))
             ->join('repair_status S', 'LEFT', array('S.id', 'T.max_id'))
@@ -110,7 +110,7 @@ class Model extends \Kotchasan\Model
                         $ret['remove'] = 'item_' . $match[1];
                     }
                 } elseif (preg_match_all('/,?([0-9]+),?/', $id, $match)) {
-                    if ($action === 'delete' && Login::checkPermission($login, array('can_manage_repair', 'can_repair'))) {
+                    if ($action === 'delete' && Login::checkPermission($login, array('can_config'))) { //array('can_manage_repair', 'can_repair')
                         // ลบรายละเอียดซ่อม
                         $this->db()->delete($this->getTableName('repair_status'), array('id', (int) $match[1][0]));
                         // reload

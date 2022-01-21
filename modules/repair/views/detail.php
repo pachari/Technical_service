@@ -112,7 +112,8 @@ class View extends \Gcms\View
                 ),
             ),
         ));
-        if (Login::checkPermission($login, array('can_manage_repair', 'can_repair'))) {
+        $login = Login::isMember();
+        if (Login::checkPermission($login, array('can_config'))) { //array('can_manage_repair', 'can_repair')
             /* ปุ่มแสดงในแต่ละแถว */
             $table->buttons = array(
             /*    'file_attachment' => array(
