@@ -80,7 +80,7 @@ class Model extends \Kotchasan\KBase
                 array('permission', 'LIKE', '%,approve_repair,%'),
                 
             ))
-            ->order('id')
+            ->order('name')
             ->toArray()
             ->execute();
         }

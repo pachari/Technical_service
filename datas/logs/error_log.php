@@ -21429,3 +21429,17 @@
 [2022-01-21 16:15:41] ERROR: <br>PHP warning : <em>Undefined array key "type_id"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\report.php</b> on line <b>385</b> 
 [2022-01-21 16:15:44] ERROR: <br>PHP warning : <em>Undefined array key "039"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\reportg.php</b> on line <b>266</b> 
 [2022-01-21 16:15:44] ERROR: <br>PHP warning : <em>Undefined array key "039"</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\views\reportg.php</b> on line <b>267</b> 
+[2022-01-22 07:47:12] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 07:47:12] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 07:47:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 07:47:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 07:55:49] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-22 07:55:49] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-22 08:49:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 08:49:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 08:49:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 08:49:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 09:15:12] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 09:15:12] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 09:15:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 09:15:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 

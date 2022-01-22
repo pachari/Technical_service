@@ -82,15 +82,17 @@ class View extends \Gcms\View
             'accept' => array('pdf'), 
             ));  
 
+            if($index->operator_id == 0){$operator = $login['id']; }else{ $operator =  $index->operator_id;  }
             if (Login::checkPermission($login, 'can_manage_repair')) {
                 // operator_id
-                $fieldset->add('select', array( //select
+                $fieldset->add('select', array( 
                     'id' => 'operator_id',
-                'labelClass' => 'g-input icon-customer',
+                  'labelClass' => 'g-input icon-customer',
                     'itemClass' => 'item',
                     'label' => '{LNG_Operator}',
                     'options' => \Repair\Operator\Model::create()->toSelect(),
-                    'value' => $index->operator_id,
+                    'value' => $login['id'],  //$index->operator_id,
+    
                 ));
             }
             $fieldset = $form->add('fieldset', array(
@@ -163,13 +165,20 @@ class View extends \Gcms\View
             'accept' => array('jpg', 'jpeg', 'png'), 
         ));  
 
+      /*  if($index->operator_id == 0){$operator = $login['id']; }else{ $operator =  $index->operator_id;  }
         if (Login::checkPermission($login, 'approve_repair')) {
             // operator_id
-            $fieldset->add('hidden', array( //select
+            $fieldset->add('hidden', array( 
                 'id' => 'operator_id',
-              /*  'labelClass' => 'g-input icon-customer',
-                'itemClass' => 'item',
-                'label' => '{LNG_Operator}', */
+                'options' => \Repair\Operator\Model::create_approve()->toSelect_approve(),
+                'value' => $operator ,//$index->operator_id,
+            ));
+
+        }*/
+        if (Login::checkPermission($login, 'approve_repair')) {
+            // operator_id
+            $fieldset->add('hidden', array( 
+                'id' => 'operator_id',
                 'options' => \Repair\Operator\Model::create_approve()->toSelect_approve(),
                 'value' => $index->operator_id,
             ));
