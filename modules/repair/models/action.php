@@ -31,7 +31,7 @@ class Model extends \Kotchasan\Model
         // session, token, can_manage_repair, can_repair
 
         if ($request->initSession() && $request->isSafe() && $login = Login::isMember()) {
-            if (Login::checkPermission($login, array('can_manage_repair', 'can_repair'))) {
+            if (Login::checkPermission($login, array('can_manage_technical', 'can_repair'))) { //can_manage_repair
                 
 
                     // อัปโหลดไฟล์

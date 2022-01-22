@@ -14,7 +14,7 @@ return array(
     1 => 'Enabled'
   ),
   'Build_example' => 'Build an example',
-  'Can approve manage repair' => 'Can approve manage repair',
+  'Can approve manage repair' => 'Can approve manage job',
   'Canceljob' => 'Cancel job',
   'Closejob' => 'Close job',
   'Comment' => 'Comment',

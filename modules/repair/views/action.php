@@ -83,7 +83,7 @@ class View extends \Gcms\View
             ));  
 
             if($index->operator_id == 0){$operator = $login['id']; }else{ $operator =  $index->operator_id;  }
-            if (Login::checkPermission($login, 'can_manage_repair')) {
+            if (Login::checkPermission($login, 'can_manage_technical')) { //can_manage_repair
                 // operator_id
                 $fieldset->add('select', array( 
                     'id' => 'operator_id',

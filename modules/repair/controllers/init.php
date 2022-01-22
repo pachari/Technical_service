@@ -22,22 +22,33 @@ class Controller extends \Kotchasan\KBase
      */
     public static function updatePermissions($permissions)
     {
+        //**********Technical************** */
+         //เมนูจัดการลูกค้า
+         $permissions['can_manage_customer'] = '{LNG_Customer list} '; //  ({LNG_Technical Service system})
         //เมนูจัดการงาน
-        $permissions['can_manage_repair'] = '{LNG_Can manage repair}';
-        //เมนูแจ้งงาน
-        $permissions['can_repair'] = '{LNG_Technical Service jobs}';
+        $permissions['can_manage_technical'] = '{LNG_Can manage the} {LNG_Technical Service jobs}';  //$permissions['can_manage_repair']
        // $permissions['can_approve_manage_repair'] = '{LNG_Can approve manage repair}';
-       //เมนูอนุมัติงาน
-        $permissions['approve_repair'] = '{LNG_Can approve manage repair}';
-        //เมนูจัดการลูกค้า
-        $permissions['can_manage_customer'] = '{LNG_Customer list}';
-        //เมนูรายงาน
-        $permissions['report'] = '{LNG_report}';
-        //ส่วน Booking Room
-        $permissions['can_manage_room'] = '{LNG_Can manage room}';
-        $permissions['can_approve_room'] = '{LNG_Can be approve} {LNG_Room}';
-        $permissions['send_email'] = '{LNG_Emailing}';
+        //การส่งอีเมล
+        $permissions['send_email'] = '{LNG_Emailing} ';
         $permissions['send_email_cc'] = '{LNG_Emailing} {LNG_email_cc}';
+
+        //**********Sum********************** */
+         //เมนูแจ้งงาน
+         $permissions['can_repair'] = '{LNG_New Job}';
+         //เมนูรายงาน
+         $permissions['report'] = '{LNG_report}';
+         //เมนูอนุมัติงาน
+        $permissions['approve_repair'] = '{LNG_Can approve manage repair} ';
+
+        //**********Repair************** */
+        //เมนูจัดการงาน
+        $permissions['can_manage_repair'] = '{LNG_Can manage repair} ({LNG_Repair System})';  
+
+         //**********Room************** */
+        //ส่วน Booking Room
+        $permissions['can_manage_room'] = '{LNG_Can manage room} ({LNG_Room})';
+        $permissions['can_approve_room'] = '{LNG_Can be approve} ({LNG_Room})';
+
         return $permissions;
     }
 }

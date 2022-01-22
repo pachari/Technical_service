@@ -257,7 +257,7 @@ class Model extends \Kotchasan\Model
                         }else {   
                        
                     // สามารถจัดการรายการซ่อมได้
-                    $can_manage_repair = Login::checkPermission($login, 'can_manage_repair');
+                    $can_manage_repair = Login::checkPermission($login, 'can_manage_technical'); //can_manage_repair
                     // ตรวจสอบรายการที่เลือก
                     $index = self::get( $request->post('id')->toInt(), $repair['customer_id'] );
 

@@ -21443,3 +21443,53 @@
 [2022-01-22 09:15:12] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
 [2022-01-22 09:15:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
 [2022-01-22 09:15:13] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:12:58] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:12:58] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:12:58] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:12:58] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:13:12] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-22 10:13:12] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-22 10:13:48] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:13:48] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:13:48] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:13:48] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:14:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:14:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:14:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:14:40] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:14:50] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:14:50] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:14:50] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:14:50] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:15:01] ERROR: <br>PHP warning : <em>Undefined property: Repair\Printrepair\Controller::$bodyClass</em> in <b>C:\xampp2\htdocs\TC-main\modules\index\controllers\main.php</b> on line <b>106</b> 
+[2022-01-22 10:15:01] ERROR: <br>Exception : <em>Call to undefined method Repair\Printrepair\Controller::canonical()</em> in <b>C:\xampp2\htdocs\TC-main\Kotchasan\Kotchasan.php</b> on line <b>61</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-22 10:15:23] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-22 10:15:27] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-22 10:16:08] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:16:08] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:16:08] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:16:08] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:16:52] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:16:52] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:16:52] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:16:52] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$attachment_no</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>55</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>204</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Undefined variable $img2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Trying to access array offset on value of type null</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>219</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>229</b> 
+[2022-01-22 10:16:56] ERROR: <br>PHP warning : <em>Undefined property: stdClass::$send_approve2</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\views\receive.php</b> on line <b>230</b> 
+[2022-01-22 10:17:23] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:17:23] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 
+[2022-01-22 10:17:23] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>69</b> 
+[2022-01-22 10:17:23] ERROR: <br>PHP warning : <em>Undefined variable $submenus</em> in <b>C:\xampp2\htdocs\TC-main\modules\repair\controllers\initmenu.php</b> on line <b>70</b> 

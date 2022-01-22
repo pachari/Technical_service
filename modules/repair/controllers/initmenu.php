@@ -59,7 +59,7 @@ class Controller extends \Kotchasan\KBase
         }
 
         // สามารถจัดการรายการซ่อมได้, ช่างซ่อม
-        if (Login::checkPermission($login, array('can_manage_repair'))) {
+        if (Login::checkPermission($login, array('can_manage_technical'))) { //can_manage_repair
             $submenus[] = array(
                 'text' => '{LNG_List of} {LNG_Technical Service}', //LNG_Technical Service man
                 'url' => 'index.php?module=repair-setup',

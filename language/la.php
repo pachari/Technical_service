@@ -28,7 +28,7 @@ return array(
   'Browse image uploaded, type :type' => 'ເລືອກຮູບພາບອັບໂຫຼດຊະນິດ :type',
   'Browse image uploaded, type :type size :width*:height pixel' => 'ເລືອກຮູບພາບອັບໂຫຼດຊະນິດ :type ຂະໜາດ :width*:height ຟິດເຊວล',
   'Build_example' => 'ສ້າງຕົວຢ່າງ',
-  'Can approve manage repair' => 'ສາມາດຄຸ້ມຄອງການອະນຸມັດການສ້ອມແປງ',
+  'Can approve manage repair' => 'ສາມາດຈັດການການອະນຸມັດການແຈ້ງເຕືອນວຽກ',
   'Can manage repair' => 'ສາມາດຈັດການເຄື່ອງຊ່ອມໄດ້',
   'Can manage the' => 'ສາມາດຈັດການ',
   'Can manage the inventory' => 'ສາມາດຈັດການຄັງສິນຄ້າໄດ້',

@@ -36,7 +36,7 @@ class Controller extends \Gcms\Controller
         // สมาชิก
         $login = Login::isMember();
         // ผู้ส่งซ่อม หรือ สามารถรับเครื่องซ่อมได้
-        if ($index && ($login['id'] == $index->customer_id || Login::checkPermission($login, array('can_manage_repair', 'can_repair')) || Login::checkPermission($login, array( 'approve_repair')) )) {
+        if ($index && ($login['id'] == $index->customer_id || Login::checkPermission($login, array('can_manage_technical', 'can_repair')) || Login::checkPermission($login, array( 'approve_repair')) )) { //can_manage_repair
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',
