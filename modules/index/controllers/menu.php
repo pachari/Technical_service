@@ -61,8 +61,8 @@ class Controller
             unset($this->menus['module']);
         }
         // ไม่มีเมนู report
-        if (empty($this->menus['report']['submenus'])) {
-            unset($this->menus['report']);
+        if (empty($this->menus['report_technical']['submenus'])) { //report
+            unset($this->menus['report_technical']); //report
         }
         return \Kotchasan\Menu::render($this->menus, $select);
     }

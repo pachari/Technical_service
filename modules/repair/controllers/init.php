@@ -36,13 +36,15 @@ class Controller extends \Kotchasan\KBase
          //เมนูแจ้งงาน
          $permissions['can_repair'] = '{LNG_New Job}';
          //เมนูรายงาน
-         $permissions['report'] = '{LNG_report}';
+         $permissions['report_technical'] = '{LNG_report}';
          //เมนูอนุมัติงาน
         $permissions['approve_repair'] = '{LNG_Can approve manage repair} ';
 
         //**********Repair************** */
         //เมนูจัดการงาน
-        $permissions['can_manage_repair'] = '{LNG_Can manage repair} ({LNG_Repair System})';  
+        $permissions['can_manage_repair'] = '{LNG_Can manage repair} ({LNG_Repair System})'; 
+         //เมนูรายงาน
+         $permissions['report'] = '{LNG_report}  ({LNG_Repair System})'; 
 
          //**********Room************** */
         //ส่วน Booking Room

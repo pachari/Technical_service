@@ -93,7 +93,7 @@ class Controller extends \Kotchasan\KBase
             $menu->addTopLvlMenu('types', '{LNG_Type} {LNG_types of objective}',  'index.php?module=inventory-setup',null   );
         }
         // รายงาน 
-        if (Login::checkPermission($login, array('report'))) {
+        if (Login::checkPermission($login, array('report_technical'))) { //report
             $submenus2 = array(
                     array(
                         'text' => '{LNG_Summary}', 

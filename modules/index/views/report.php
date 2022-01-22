@@ -45,7 +45,7 @@ class View extends \Gcms\View
         $params = array(
             'status' => $request->request('status', -1)->toInt(),
         );
-        $isAdmin = Login::checkPermission($login, 'report');
+        $isAdmin = Login::checkPermission($login, 'report_technical'); //report
         // สถานะการซ่อม
         $this->statuses     = \Repair\Status\Model::create();
         $this->operators    = \Repair\Operator\Model::create();

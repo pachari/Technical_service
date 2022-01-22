@@ -31,7 +31,7 @@ class View extends \Gcms\View
     public function render(Request $request)
     {
                 $login = Login::isMember();
-                $isAdmin = Login::checkPermission($login, 'report');
+                $isAdmin = Login::checkPermission($login, 'report_technical'); //report
                 $params = array(
                     'from' => $request->request('from', date('Y-m-d', strtotime('-7 days')))->date(),
                     'to' => $request->request('to', date('Y-m-d'))->date(),

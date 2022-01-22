@@ -34,11 +34,11 @@ class Controller extends \Gcms\Controller
         // ข้อความ title bar
         $this->title = Language::get('report');
         // เลือกเมนู
-        $this->menu = 'report';
+        $this->menu = 'report_technical';
         // สมาชิก
         $login = Login::isMember();
         // สามารถดูรายงาน
-        if (Login::checkPermission($login, array('report'))) {
+        if (Login::checkPermission($login, array('report_technical'))) { //report
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',
@@ -87,7 +87,7 @@ class Controller extends \Gcms\Controller
             'innerHTML' => '<h2 class="icon-report">'.$this->title.'{LNG_Summary}</h2>',
         ));
         // menu
-        $section->appendChild(\Index\Tabmenus\View::render($request, 'report', 'report'));
+        $section->appendChild(\Index\Tabmenus\View::render($request, 'report', 'report_technical')); //render($request, 'report', 'report'));
         // คืนค่า HTML
         return $section->render();
     }

@@ -22,7 +22,7 @@ class Controller extends \Kotchasan\Controller
     {
         if ($request->isReferer()) {
                 $header = array();
-                if (Login::checkPermission(Login::isMember(), 'report')) {
+                if (Login::checkPermission(Login::isMember(), 'report_technical')) { //report
                     
                         //รับค่าไปค้นหาข้อมูล
                         $params = array(); 

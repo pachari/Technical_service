@@ -83,11 +83,17 @@ class Model
                 'text' => '{LNG_Customer}',
                 'url' => 'index.php?module=customer',
             ),
-            'report' => array(
+            
+            'report_technical' => array(
                 'text' => '{LNG_report}',
                 'url' => 'index.php?module=report',
                 'submenus' => array(),
             ),
+            /*'report' => array(
+                'text' => '{LNG_report}',
+                'url' => 'index.php?module=report',
+                'submenus' => array(),
+            ),*/
             'settings' => array(
                 'text' => '{LNG_Settings}',
                 'url' => 'index.php?module=settings',

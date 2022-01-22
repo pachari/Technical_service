@@ -31,11 +31,11 @@ class Controller extends \Gcms\Controller
         // ข้อความ title bar
         $this->title = Language::trans('{LNG_report}{LNG_Graph-report}');
         // เลือกเมนู
-        $this->menu = 'report';
+        $this->menu = 'report_technical';
         // สมาชิก
         $login = Login::isMember();
         // สามารถดูรายงาน
-        if (Login::checkPermission($login, array('report'))) {
+        if (Login::checkPermission($login, array('report_technical'))) { //report
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',
