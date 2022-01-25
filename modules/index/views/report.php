@@ -375,15 +375,15 @@ class View extends \Gcms\View
         $item['create_date']    = Date::format($item['create_date'], 'd M Y H:i');
         $item['request_date']    = Date::format($item['request_date'], 'd M Y H:i');
         $item['status']         = '<mark class=term style="background-color:'.$this->statuses->getColor($item['status']).'">'.$this->statuses->get($item['status']).'</mark>';
-        $item['operator_id']    = $this->operators->get($item['operator_id']);
+       /*  $item['operator_id']    = $this->operators->get($item['operator_id']);
         $item['user_id']        = $this->userrepair->getuser($item['user_id']);
         $item['memberstatus']   = isset(self::$cfg->member_status[$item['status']]) ? '<span class=status'.$item['status'].'>{LNG_'.self::$cfg->member_status[$item['status']].'}</span>' : '';
         $item['begindate']      = Date::format($item['begindate'], 'd M Y H:i');
         $item['enddate']        = Date::format($item['enddate'], 'd M Y H:i'); 
-        $item['category_id']    = $this->catagory_id->getCategory($item['category_id'],'category_id'); 
+       $item['category_id']    = $this->catagory_id->getCategory($item['category_id'],'category_id'); 
         $item['model_id']       = $this->model_id->getCategory($item['model_id'],'model_id'); 
         $item['type_id']        = $this->type_id->getCategory($item['type_id'],'type_id'); 
-        $item['product_no']     = $this->product_no->getProduct($item['product_no']);  
+        $item['product_no']     = $this->product_no->getProduct($item['product_no']);  */
         return $item;
     }
 }

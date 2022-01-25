@@ -56,6 +56,9 @@ class Model extends \Kotchasan\Model
                                 'approve_name' => '',
                                 'approve_id' => '',
                                 'type_job_number' => '',
+                                'attachment_no' => '',
+                                'send_approve' => '',
+                                'send_approve2' => '',
                                 
                             );
         } else {

@@ -51,6 +51,7 @@ class View extends \Gcms\View
             }
         }
            /*เอารูปภาพแนบเปิดงานมาแสดง */
+           $img2 = array();
            $html_img = ' <tr><td class="icon-iconview">{LNG_Image}</td>';
            for($i=1;$i<=$index->attachment_no;$i++){   
                 $img2[$i] = is_file(ROOT_PATH.DATA_FOLDER.'file_attachment_user/'. $type_job_run.'_'.$index->id.'_'.$i.'.jpg') ? WEB_URL.DATA_FOLDER.'file_attachment_user/'.$type_job_run.'_'.$index->id.'_'.$i.'.jpg' : WEB_URL.'modules/inventory/img/noesig.png';   
@@ -216,7 +217,7 @@ class View extends \Gcms\View
                         'dataPreview' => 'multi_preview',
                         'multiple' => true,
                         'accept' => array('jpg', 'jpeg', 'png'), 
-                        'previewSrc' =>  $img2[1],
+                        'previewSrc' =>   isset($img2[1]) ? $img2[1] :  '',   
                         //'previewSrc_disable' => $img,
                         ));     
                         // List Name Approve 

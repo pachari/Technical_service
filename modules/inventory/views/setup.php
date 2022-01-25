@@ -185,12 +185,12 @@ class View extends \Gcms\View
      */
     public function onRow($item, $o, $prop)
     {
-        $item['category_id'] = $this->category->get('category_id', $item['category_id']);
+     /*   $item['category_id'] = $this->category->get('category_id', $item['category_id']);
         $item['type_id'] = $this->category->get('type_id', $item['type_id']);
         $item['model_id'] = $this->category->get('model_id', $item['model_id']);
         $item['inuse'] = '<a id=inuse_'.$item['id'].' class="icon-valid '.($item['inuse'] == 0 ? 'disabled' : 'access').'" title="'.$this->inventory_status[$item['inuse']].'"></a>';
         //$thumb = is_file(ROOT_PATH.DATA_FOLDER.'inventory/'.$item['id'].'.jpg') ? WEB_URL.DATA_FOLDER.'inventory/'.$item['id'].'.jpg' : WEB_URL.'modules/inventory/img/noimage.png';
-        $item['stock'] .= ' '.$item['unit'];
+        $item['stock'] .= ' '.$item['unit']; */
         //$item['id'] = '<img src="'.$thumb.'" style="max-height:50px;max-width:50px" alt=thumbnail>';
         return $item;
     }
