@@ -52,7 +52,7 @@ class View extends \Gcms\View
             /* คอลัมน์ที่ไม่ต้องแสดงผล */
             'hideColumns' => array('contact_name','contact_tel'), 
             /* คอลัมน์ที่สามารถค้นหาได้ */
-            'searchColumns' => array( 'type_name','customer_name', 'address','contact_name','contact_tel'),
+            'searchColumns' => array('customer_code','customer_name', 'address'),
             /* ตั้งค่าการกระทำของของตัวเลือกต่างๆ ด้านล่างตาราง ซึ่งจะใช้ร่วมกับการขีดถูกเลือกแถว */
             'action' => 'index.php/index/model/customer/action',
             'actionCallback' => 'dataTableActionCallback',
