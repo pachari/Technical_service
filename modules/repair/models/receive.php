@@ -260,11 +260,12 @@ class Model extends \Kotchasan\Model
                         }else {   
                        
                     // สามารถจัดการรายการซ่อมได้
-                    $can_manage_repair = Login::checkPermission($login, 'can_manage_technical'); //can_manage_repair
+                  //  $can_manage_repair = Login::checkPermission($login, 'can_manage_technical'); //can_manage_repair
                     // ตรวจสอบรายการที่เลือก
                     $index = self::get( $request->post('id')->toInt(), $repair['customer_id'] );
+                     $cus_check = $index->customer_id;
 
-                            if (!$index || $index->id > 0 && ($login['id'] != $index->customer_id && !$can_manage_repair)) {
+                            if ((!$index)  && ($login['id'] != $cus_check)) { // && !$can_manage_repair 
                                 // ไม่พบรายการที่แก้ไข
                                 $ret['alert'] = Language::get('Sorry, Item not found It&#39;s may be deleted');
                             } else {    
@@ -358,7 +359,7 @@ class Model extends \Kotchasan\Model
                                                 $ret['alert'] = Language::get('Saved successfully');  
                                         }
 
-                                        if ($can_manage_repair && $index->id > 0 ) {
+                                        if ( $index->id > 0 && Login::checkPermission($login, array( 'can_manage_technical')) ) {  //$can_manage_repair &&
                                             // สามารถจัดการรายการซ่อมได้
                                             $ret['location'] = $request->getUri()->postBack('index.php', array('module' => 'repair-setup', 'id' => null));
                                         } else if( $check_alert == 0) {

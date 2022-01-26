@@ -1,7 +1,7 @@
 <?php
 /* config.php */
 return array (
-  'version' => '4.0.3',
+  'version' => '1.0.3',
   'web_title' => 'TKS - Technical Service (ใบขอเทคนิคบริการ)',
   'web_description' => 'ระบบบันทึกข้อมูลใบขอเทคนิคบริการ',
   'timezone' => 'Asia/Bangkok',

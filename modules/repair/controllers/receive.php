@@ -37,7 +37,7 @@ class Controller extends \Gcms\Controller
         // เลือกเมนู
         $this->menu = 'repair';
         // ใหม่, ตัวเอง, เจ้าหน้าที่
-        if ($login && ($index->id == 0 || $login['id'] == $index->customer_id || Login::checkPermission($login, 'can_manage_technical'))) { //can_manage_repair
+        if ($login && ($index->id == 0 || $login['id'] == $index->customer_id || Login::checkPermission($login,'can_repair'))) { //can_manage_repair 'can_manage_technical', 
             // แสดงผล
             $section = Html::create('section', array(
                 'class' => 'content_bg',

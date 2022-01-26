@@ -31,13 +31,11 @@ class Model extends \Kotchasan\Model
         // session, token, can_manage_repair, can_repair
 
         if ($request->initSession() && $request->isSafe() && $login = Login::isMember()) {
-            if (Login::checkPermission($login, array('can_manage_technical', 'can_repair'))) { //can_manage_repair
-                
-
+            if (Login::checkPermission($login, array( 'can_repair'))) { //can_manage_repair 'can_manage_technical',
                     // อัปโหลดไฟล์
                     $dir = ROOT_PATH.DATA_FOLDER.'file_attachment/';  
                      /* @var $file \Kotchasan\Http\UploadedFile */        
-                    foreach ($request->getUploadedFiles() as $item => $file) {
+                         foreach ($request->getUploadedFiles() as $item => $file) {
                         if ($item == 'file_attachment') { 
                             $fi = '';          
                                 if ($file->hasUploadFile()) {

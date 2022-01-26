@@ -60,7 +60,7 @@ class View extends \Gcms\View
             /* คอลัมน์ที่ไม่ต้องแสดงผล */
             'hideColumns' => array('id'),
             /* คอลัมน์ที่สามารถค้นหาได้ */
-            'searchColumns' => array('topic'),
+            'searchColumns' => array( 'job_id' ,'topic' , 'customer_name' ,  'create_date'),
             /* ตัวเลือกด้านบนของตาราง ใช้จำกัดผลลัพท์การ query */
             'filters' => array(
                 array(
@@ -74,9 +74,15 @@ class View extends \Gcms\View
             'headers' => array(
                 'job_id' => array(
                     'text' => '{LNG_Job No.}',
+                    'sort' => 'job_id',
+                ),
+                'customer_name' => array(
+                    'text' => '{LNG_Customer Name}',
+                    'sort' => 'customer_name',
                 ),
                 'topic' => array(
                     'text' => '{LNG_types of objective}',
+                    'sort' => 'topic',
                 ),
                 'create_date' => array(
                     'text' => '{LNG_Received date}',
@@ -112,9 +118,32 @@ class View extends \Gcms\View
                     'href' => $uri->createBackUri(array('module' => 'repair-detail', 'id' => ':id')),
                     'title' => '{LNG_Technical Service job description}',
                 ),
-                
+                'printrepair' => array(
+                    'class' => 'icon-print button brown notext',
+                    'href' =>  $uri->createBackUri(array('module' => 'repair-printrepair', 'id' => ':id')),
+                    'target' => '_export',
+                    'title' => '{LNG_Print}',
+                ),
             ),
+            
         ));
+          // สามารถแก้ไขใบรับซ่อมได้
+        /*  if ($isAdmin) {
+            $table->actions[] = array(
+                'id' => 'action',
+                'class' => 'ok',
+                'text' => '{LNG_With selected}',
+                'options' => array(
+                    'delete' => '{LNG_Delete}',
+                ),
+            );*/
+            $table->buttons['edit'] = array(
+                'class' => 'icon-edit button green',
+                'href' => $uri->createBackUri(array('module' => 'repair-receive', 'id' => ':id')),
+                'title' => '{LNG_Edit} {LNG_Repair details}',
+            );
+        //}
+
         // save cookie
         setcookie('repairHistory_perPage', $table->perPage, time() + 2592000, '/', HOST, HTTPS, true);
         setcookie('repairHistory_sort', $table->sort, time() + 2592000, '/', HOST, HTTPS, true);
@@ -133,7 +162,7 @@ class View extends \Gcms\View
      */
     public function onRow($item, $o, $prop)
     {
-        $item['create_date'] = Date::format($item['create_date'], 'd M Y');
+        $item['create_date'] = Date::format($item['create_date'], 'd M Y H:i');
         $item['status'] = '<mark class=term style="background-color:'.$this->statuses->getColor($item['status']).'">'.$this->statuses->get($item['status']).'</mark>';
         $item['operator_id'] = $this->operators->get($item['operator_id']);
         return $item;

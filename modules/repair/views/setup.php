@@ -193,8 +193,8 @@ class View extends \Gcms\View
      */
     public function onRow($item, $o, $prop)
     {
-        $item['create_date'] = Date::format($item['create_date'], 'd M Y  h:i'); 
-        $item['request_date'] = Date::format($item['request_date'], 'd M Y h:i');
+        $item['create_date'] = Date::format($item['create_date'], 'd M Y  H:i'); 
+        $item['request_date'] = Date::format($item['request_date'], 'd M Y H:i');
       //  $item['phone'] = self::showPhone($item['phone']);
         $item['status'] = '<mark class=term style="background-color:'.$this->statuses->getColor($item['status']).'">'.$this->statuses->get($item['status']); //'{LNG_'.$this->statuses->get($item['status']).'}
       //  $item['operator_id'] = $this->operators->get($item['operator_id']);
